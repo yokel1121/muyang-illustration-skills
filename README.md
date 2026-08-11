@@ -5,6 +5,7 @@
 <img width="1983" height="793" alt="exec-828069ee-2df2-43fb-bfb5-9c92812c3e0f" src="https://github.com/user-attachments/assets/b942054c-cad1-4e5a-8dc9-a039a7ab3dec" />
 <img width="1983" height="793" alt="exec-f872dc86-056f-4d25-ac79-736162f94251" src="https://github.com/user-attachments/assets/3023d076-476a-4817-a291-fabff8ef7067" />
 <img width="1983" height="793" alt="exec-d4b8888c-69a3-4ab3-a81d-7be5b9521cba" src="https://github.com/user-attachments/assets/faea0134-2119-4a29-acea-a2e7413759ab" />
+<img width="1983" height="793" alt="exec-05c0384b-98ff-4b8a-acd6-5b3e360cf665" src="https://github.com/user-attachments/assets/8658fb17-591c-4c24-ae1f-469f7a1e2221" />
 
 用户只需指定主体与具体风格。Skill 会在内部套用固定配方并直接生成图片，不展示中间提示词，也不会擅自扩写主体或混合风格。
 
