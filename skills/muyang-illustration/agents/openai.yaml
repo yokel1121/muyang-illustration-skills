@@ -1,0 +1,4 @@
+interface:
+  display_name: "沐阳插画"
+  short_description: "分类：极简编辑、撞色时装、柔焦梦幻、纯白高定、暗黑时尚、东方诗意、复古版画、电影叙事"
+  default_prompt: "使用 $muyang-illustration，先询问我的主体内容和具体风格，再用固定配方直接生成图片，不要返回提示词。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "沐阳·复古版画插画"
+  short_description: "风格：复古剪影、复古电影、日式版画；确认主体后直接生成图片"
+  default_prompt: "使用 $muyang-print-poster，确认主体内容和具体风格后直接生成图片，不要返回提示词。"

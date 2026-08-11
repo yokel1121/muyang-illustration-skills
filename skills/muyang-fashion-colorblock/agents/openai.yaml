@@ -1,0 +1,4 @@
+interface:
+  display_name: "沐阳·撞色时装插画"
+  short_description: "风格：蓝白时尚、韩系蓝白、黄黑撞色、粉蓝撞色；确认主体后直接生成图片"
+  default_prompt: "使用 $muyang-fashion-colorblock，确认主体内容和具体风格后直接生成图片，不要返回提示词。"
